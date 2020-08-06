@@ -1,0 +1,4 @@
+# git log | grep Date | awk '{print " : "$4" "$3" "$6}' | uniq -c>logfile.txt
+# above line is for extractiong count and date of commits
+# sort -k 1 logfile.txt | sort -r
+#above line is for sorting that file based for 1st parameter

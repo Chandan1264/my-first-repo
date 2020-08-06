@@ -1,29 +1,4 @@
-commit 43fafc292e9bd14c0302d8fa393359b6f346306e
-Author: Chandan1264 <chandancharvi84@gmail.com>
-Date:   Fri Jun 12 18:49:53 2020 +0530
-
-    practice
-
-commit 88a8381a41cf6e1e865ed0617b0d01f31e3ab122
-Author: Chandan1264 <chandancharvi84@gmail.com>
-Date:   Fri Jun 12 10:57:58 2020 +0530
-
-    practice
-
-commit 7a8280c114b9ca75ab20fd486919560f75ed0445
-Author: Chandan1264 <chandancharvi84@gmail.com>
-Date:   Fri Jun 12 10:48:28 2020 +0530
-
-    gitignore file added
-
-commit f5c053b9c78337f202b222bda287b522f4b14ce0
-Author: Chandan1264 <chandancharvi84@gmail.com>
-Date:   Thu Jun 11 13:21:05 2020 +0530
-
-    added 2 files
-
-commit 89318b8b67144f2654ef2371ddd980edea2c2085
-Author: Chandan1264 <chandancharvi84@gmail.com>
-Date:   Thu Jun 11 13:05:34 2020 +0530
-
-    added readme.txt
+      4  : 14 Jun 2020
+      5  : 13 Jun 2020
+      4  : 12 Jun 2020
+      2  : 11 Jun 2020
